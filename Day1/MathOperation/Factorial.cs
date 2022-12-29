@@ -1,5 +1,5 @@
 using System;
-namespace  Operation;
+namespace Operation;
 
 public class Factorial{
 
