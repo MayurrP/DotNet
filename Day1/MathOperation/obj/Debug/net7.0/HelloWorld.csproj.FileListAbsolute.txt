@@ -1,0 +1,15 @@
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+D:\Practical\dotnetPractical\DotNet\Day1\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
