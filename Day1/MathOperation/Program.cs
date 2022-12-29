@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Operation;
 using Calculation;
+using ComplexNumber;
 
 double result;
 
@@ -43,4 +44,14 @@ Console.WriteLine("---------------------------------");
 
 result = cal.Division(20,4.5);
 Console.WriteLine("Division is : "+result);
+Console.WriteLine("---------------------------------");
+Console.WriteLine("---------------------------------");
+Complex c1 = new Complex(12,12);
+Complex c2 = new Complex(12,12);    
+Complex c3=c1 + c2;
+
+Console.WriteLine("Complex Number C1 : "+c1.Real+" + "+c1.Imeg+" i");
+Console.WriteLine("Complex Number C2 : "+c2.Real+" + "+c2.Imeg+" i");
+Console.WriteLine("Complex Number C3 : "+c3.Real+" + "+c3.Imeg+" i");
+
 Console.WriteLine("---------------------------------");
