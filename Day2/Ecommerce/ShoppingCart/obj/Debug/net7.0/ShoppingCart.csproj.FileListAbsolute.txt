@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.deps.json
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\bin\Debug\net7.0\ShoppingCart.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\refint\ShoppingCart.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ShoppingCart.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\ShoppingCart\obj\Debug\net7.0\ref\ShoppingCart.dll

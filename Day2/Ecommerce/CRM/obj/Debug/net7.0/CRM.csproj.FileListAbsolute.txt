@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\bin\Debug\net7.0\CRM.deps.json
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\bin\Debug\net7.0\CRM.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\bin\Debug\net7.0\CRM.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\refint\CRM.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\CRM.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\CRM\obj\Debug\net7.0\ref\CRM.dll

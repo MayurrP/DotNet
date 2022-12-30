@@ -1,0 +1,483 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\Billing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\Billing.csproj",
+        "projectName": "Billing",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\Billing.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\Catalog.csproj",
+        "projectName": "Catalog",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\Catalog.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\CRM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\CRM.csproj",
+        "projectName": "CRM",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\CRM.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\HR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\HR.csproj",
+        "projectName": "HR",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\HR.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\Membership.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\Membership.csproj",
+        "projectName": "Membership",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\Membership.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\OrderProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\OrderProcessing.csproj",
+        "projectName": "OrderProcessing",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\OrderProcessing.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\Shipment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\Shipment.csproj",
+        "projectName": "Shipment",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\Shipment.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\mayur\\.nuget\\packages\\",
+        "outputPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\Billing.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Billing\\Billing.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\Catalog.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Catalog\\Catalog.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\CRM.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\CRM\\CRM.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\HR.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\HR\\HR.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\Membership.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Membership\\Membership.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\OrderProcessing.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\OrderProcessing\\OrderProcessing.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\Shipment.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\Shipment\\Shipment.csproj"
+              },
+              "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\ShoppingCart.csproj": {
+                "projectPath": "D:\\Practical\\dotnetPractical\\DotNet\\Day2\\Ecommerce\\ShoppingCart\\ShoppingCart.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

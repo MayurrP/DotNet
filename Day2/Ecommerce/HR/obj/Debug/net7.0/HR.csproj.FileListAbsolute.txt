@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\bin\Debug\net7.0\HR.deps.json
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\bin\Debug\net7.0\HR.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\bin\Debug\net7.0\HR.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\refint\HR.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\HR.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\HR\obj\Debug\net7.0\ref\HR.dll

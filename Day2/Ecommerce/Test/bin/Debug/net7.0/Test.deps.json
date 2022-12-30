@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test/1.0.0": {
+        "dependencies": {
+          "Billing": "1.0.0",
+          "CRM": "1.0.0",
+          "Catalog": "1.0.0",
+          "HR": "1.0.0",
+          "Membership": "1.0.0",
+          "OrderProcessing": "1.0.0",
+          "Shipment": "1.0.0",
+          "ShoppingCart": "1.0.0"
+        },
+        "runtime": {
+          "Test.dll": {}
+        }
+      },
+      "Billing/1.0.0": {
+        "runtime": {
+          "Billing.dll": {}
+        }
+      },
+      "Catalog/1.0.0": {
+        "runtime": {
+          "Catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "runtime": {
+          "CRM.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "runtime": {
+          "HR.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "runtime": {
+          "Membership.dll": {}
+        }
+      },
+      "OrderProcessing/1.0.0": {
+        "runtime": {
+          "OrderProcessing.dll": {}
+        }
+      },
+      "Shipment/1.0.0": {
+        "runtime": {
+          "Shipment.dll": {}
+        }
+      },
+      "ShoppingCart/1.0.0": {
+        "runtime": {
+          "ShoppingCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Billing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Catalog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shipment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

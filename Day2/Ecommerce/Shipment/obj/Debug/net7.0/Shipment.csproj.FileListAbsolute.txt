@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.deps.json
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\bin\Debug\net7.0\Shipment.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\refint\Shipment.dll
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\Shipment.pdb
+D:\Practical\dotnetPractical\DotNet\Day2\Ecommerce\Shipment\obj\Debug\net7.0\ref\Shipment.dll
