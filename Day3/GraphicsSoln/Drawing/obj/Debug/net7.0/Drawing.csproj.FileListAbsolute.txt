@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\Practical\dotnetPractical\DotNet\Day3\GraphicsSoln\Drawing\obj\Debug\net7.0\ref\Drawing.dll
