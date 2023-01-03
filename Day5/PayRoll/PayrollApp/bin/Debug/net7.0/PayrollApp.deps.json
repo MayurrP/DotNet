@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PayrollApp/1.0.0": {
+        "dependencies": {
+          "EmployeeRecord": "1.0.0"
+        },
+        "runtime": {
+          "PayrollApp.dll": {}
+        }
+      },
+      "EmployeeRecord/1.0.0": {
+        "runtime": {
+          "EmployeeRecord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayrollApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeRecord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

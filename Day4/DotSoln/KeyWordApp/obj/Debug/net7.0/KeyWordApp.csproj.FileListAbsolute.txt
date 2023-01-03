@@ -1,0 +1,15 @@
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\bin\Debug\net7.0\KeyWordApp.exe
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\bin\Debug\net7.0\KeyWordApp.deps.json
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\bin\Debug\net7.0\KeyWordApp.runtimeconfig.json
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\bin\Debug\net7.0\KeyWordApp.dll
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\bin\Debug\net7.0\KeyWordApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.dll
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\refint\KeyWordApp.dll
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\KeyWordApp.genruntimeconfig.cache
+D:\Practical\dotnetPractical\DotNet\Day4\DotSoln\KeyWordApp\obj\Debug\net7.0\ref\KeyWordApp.dll

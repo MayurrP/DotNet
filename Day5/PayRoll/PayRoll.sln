@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollApp", "PayrollApp\PayrollApp.csproj", "{D97CCEBD-6EF8-4AB8-B780-A87D786CEBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRecord", "EmployeeRecord\EmployeeRecord.csproj", "{127551C8-EE91-48E3-B6BD-CD376D11C93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D97CCEBD-6EF8-4AB8-B780-A87D786CEBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97CCEBD-6EF8-4AB8-B780-A87D786CEBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97CCEBD-6EF8-4AB8-B780-A87D786CEBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97CCEBD-6EF8-4AB8-B780-A87D786CEBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127551C8-EE91-48E3-B6BD-CD376D11C93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127551C8-EE91-48E3-B6BD-CD376D11C93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127551C8-EE91-48E3-B6BD-CD376D11C93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127551C8-EE91-48E3-B6BD-CD376D11C93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
