@@ -20,4 +20,9 @@ public class Employee{
         this.Designation = desg;
         this.Salary = sal;
     }
+
+    public override string ToString(){
+        return $"Employee Id := {this.Id}, Employee Name :=  {this.Name} ,"+
+                $"Employee Designation :=  {this.Designation} , Employee Salary :=  {this.Salary}";
+    }
 }
