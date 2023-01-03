@@ -43,7 +43,7 @@ using System.Text.Json.Serialization;
             var options=new JsonSerializerOptions {IncludeFields=true};
             var employeeJson=JsonSerializer.Serialize<List<Employee>>(emp,options);
             string fileName=@"D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\Employees.json";
-            //Serialize all Flowers into json file
+            //Serialize all emp into json file
 
             File.WriteAllText(fileName,employeeJson);
             //Deserialize from JSON file
