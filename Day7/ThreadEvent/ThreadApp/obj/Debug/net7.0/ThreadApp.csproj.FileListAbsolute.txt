@@ -1,0 +1,15 @@
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\bin\Debug\net7.0\ThreadApp.exe
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\bin\Debug\net7.0\ThreadApp.deps.json
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\bin\Debug\net7.0\ThreadApp.runtimeconfig.json
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\bin\Debug\net7.0\ThreadApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\bin\Debug\net7.0\ThreadApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\refint\ThreadApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ThreadApp.genruntimeconfig.cache
+D:\Practical\dotnetPractical\DotNet\Day7\ThreadEvent\ThreadApp\obj\Debug\net7.0\ref\ThreadApp.dll

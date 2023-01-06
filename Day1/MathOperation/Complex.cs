@@ -23,11 +23,12 @@ class Complex{
         get{return this.imeg;}
         set{this.imeg = value;}
     }
-
+    
     public static Complex operator+ (Complex c1, Complex c2){
         Complex temp = new Complex();
         temp.real = c1.real + c2.real;
         temp.imeg = c1.imeg + c2.imeg;
         return temp;
     }
+
 }

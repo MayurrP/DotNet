@@ -18,7 +18,7 @@ Employee e2 = new Employee{Id = 37,Name = "Tony",Designation = "Sr.Developer",Sa
 
 emp.Add(e1);
 emp.Add(e2);
-JsonRead();
+WriteJson();
 while (exit)
 {
     Console.WriteLine("********** Employee Records **********");
@@ -52,21 +52,35 @@ while (exit)
                     Console.WriteLine(record.ToString());
                 }   
             }
-            JsonRead();
+
+            WriteJson();
         break;
         case 2:
             
         break;
+//--------> Remove Remaining
         case 3:
-       
-        break;
+            Console.Write("Enter Employee ID : ");
+            id = Convert.ToInt32(Console.ReadLine());
+            foreach (var record in emp)       
+                {
+                    if(record.Id == id){
+                        
+                        Console.WriteLine(record.ToString());
+                        emp.Remove(record);
+                        Console.WriteLine("Record Deleted.");
+                        WriteJson();
+                        break;
+                    } 
+                }
+            break;
 
 //--------> Search Employee with Id-------> Complete
 
         case 4:
         bool status = false;
         Console.Write("Enter Employee ID : ");
-            id = Convert.ToInt32(Console.ReadLine());
+        id = Convert.ToInt32(Console.ReadLine());
             foreach (var record in emp)       
                 {
                     if(record.Id == id){
@@ -83,7 +97,7 @@ while (exit)
 //--------> Details Employee-------> Complete
 
         case 5:
-            JsonWrite();
+            JsonReading();
         break;
         case 0:
         exit = false;
@@ -91,7 +105,7 @@ while (exit)
     }    
 }
 
-void JsonRead(){
+void WriteJson(){
         try{
             var options=new JsonSerializerOptions {IncludeFields=true};
             var employeeJson=JsonSerializer.Serialize<List<Employee>>(emp,options);
@@ -103,7 +117,7 @@ void JsonRead(){
     finally{ }
     }
 
-    void JsonWrite()
+    void JsonReading()
     {
         try{
             string jsonString = File.ReadAllText(fileName);

@@ -1,0 +1,15 @@
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\bin\Debug\net7.0\CollectionApp.exe
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\bin\Debug\net7.0\CollectionApp.deps.json
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\bin\Debug\net7.0\CollectionApp.runtimeconfig.json
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\bin\Debug\net7.0\CollectionApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\bin\Debug\net7.0\CollectionApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\refint\CollectionApp.dll
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.pdb
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\CollectionApp.genruntimeconfig.cache
+D:\Practical\dotnetPractical\DotNet\Day7\CollectionFrameWork\CollectionApp\obj\Debug\net7.0\ref\CollectionApp.dll

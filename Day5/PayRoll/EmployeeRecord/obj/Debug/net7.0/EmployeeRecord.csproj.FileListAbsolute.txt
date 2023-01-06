@@ -1,0 +1,12 @@
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\bin\Debug\net7.0\EmployeeRecord.deps.json
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\bin\Debug\net7.0\EmployeeRecord.dll
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\bin\Debug\net7.0\EmployeeRecord.pdb
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.csproj.AssemblyReference.cache
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.AssemblyInfoInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.AssemblyInfo.cs
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.csproj.CoreCompileInputs.cache
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.dll
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\refint\EmployeeRecord.dll
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\EmployeeRecord.pdb
+D:\Practical\dotnetPractical\DotNet\Day5\PayRoll\EmployeeRecord\obj\Debug\net7.0\ref\EmployeeRecord.dll
